@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Pustok.Core/Pustok.Core.csproj" />
+  <Project Path="Pustok.DataAccess/Pustok.DataAccess.csproj" />
+</Solution>
